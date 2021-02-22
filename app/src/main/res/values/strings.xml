@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AEON</string>
+    <string name="loading">Loading…</string>
+    <string name="server_error">Ошибка сервера</string>
+    <string name="auth_error">Неверный логин или пароль</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="auth">Авторизация</string>
+    <string name="payments">Платежи</string>
+</resources>
